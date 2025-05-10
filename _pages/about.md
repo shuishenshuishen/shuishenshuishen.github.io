@@ -1,10 +1,10 @@
 ---
-固定链接：/
-标题：“Academic Pages 是一个用于学术个人网站的现成 GitHub Pages 模板”
-作者简介：真
-重定向来源:
-  - /关于/
-  - /关于.html
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-我是一名大一本科生，来自金融学院(http://sf.ruc.edu.cn/)，中国人民大学(https://www.ruc.edu.cn/)。目前我的研究兴趣还不确定。
+I'm an undergraduated year one student from [School of Finance](http://sf.ruc.edu.cn/), [RUC](https://www.ruc.edu.cn/). My research interest are still uncertain now.
