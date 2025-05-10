@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm an undergraduated year one student from [School of Finance](http://sf.ruc.edu.cn/), [RUC](https://www.ruc.edu.cn/). My research interest are still uncertain now.
+Hello,I'm Cao Wenhao, an undergraduated year one student from [School of Finance](http://sf.ruc.edu.cn/), [RUC](https://www.ruc.edu.cn/). My research interest are still uncertain now.
